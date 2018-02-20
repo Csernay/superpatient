@@ -26,8 +26,7 @@ import mailcap
 import datetime
 import traceback
 from collections import OrderedDict
-# salut
-# salut3
+
 import wx
 
 from superpatient import BaseApp, DBMixin, HelpMenuMixin, CancelableMixin
